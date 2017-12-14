@@ -17,10 +17,10 @@ from this channel or this Mailing list.
 ## How Can I Create a new project?
 
 The [Huawei Cloud Template](https://github.com/huawei-clouds/template) is
-a project that contains boilerplate copies of README.md, LICENSE, and INSTALL.md
-files for use by other repos in this community. The new project can be created
-according to this template. After the project being created, you can add some
-related key words as the topics of this project.
+a project that contains boilerplate copies of README.md, LICENSE, CONFIGURATION.md
+and INSTALL.md files for use by other repos in this community. The new project can
+be created according to this template. After the project being created, you can add
+some related key words as the topics of this project.
 
 
 ## Learn to contribute
@@ -35,7 +35,7 @@ lead to many relevant topics, including
 ## Your First Contribution
 
 We recommend that you work on an existing issue before attempting
-to develop a new feature.
+to develop a new feature in a project.
 
 Start by finding an existing issue with the [help-wanted] label in a project;
 these issues we've deemed are well suited for new contributors.
