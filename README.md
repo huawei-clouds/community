@@ -8,7 +8,7 @@ This is the starting point for becoming a contributor - improving code, creating
 
 ### Communicating
 The following are communication channel slack, google mailing lists etc for this community.
-Anyone who want helps and have questions about the projects in this community, can get helps and responses
+Anyone who wants helps and has questions about the projects in this community, can get helps and responses
 from this channel or this Mailing list.
 
 * HuaweiClouds slack: #[HuaweiClouds](https://huaweiclouds.slack.com)
@@ -23,7 +23,7 @@ be created according to this template. After the project being created, you can 
 some related key words as the topics of this project.
 
 
-## Learn to contribute
+## Learn to Contribute
 
 Links in [CONTRIBUTING.md](CONTRIBUTING.md)
 lead to many relevant topics, including
