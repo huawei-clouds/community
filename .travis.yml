@@ -1,0 +1,10 @@
+# Enable travis ci in this project
+sudo: false
+
+language: # Add language here
+
+install:
+  # Add specific setup here
+
+script:
+  # Add test or deploy here
