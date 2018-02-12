@@ -1,4 +1,6 @@
-# Huawei Cloud Community [![Slack][slack_badge]][slack_link]
+# Huawei Cloud Community
+[![Slack][slack_badge]][slack_link]
+[![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/huawei-clouds/community/blob/master/LICENSE)
 
 Welcome to the Huawei Cloud community!
 
