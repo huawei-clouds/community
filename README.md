@@ -1,4 +1,5 @@
 # Huawei Cloud Community
+[![Go Report Card](https://goreportcard.com/badge/github.com/huaweicloud/community?branch=master)](https://goreportcard.com/badge/github.com/huaweicloud/community)
 [![Slack][slack_badge]][slack_link]
 [![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/huawei-clouds/community/blob/master/LICENSE)
 
