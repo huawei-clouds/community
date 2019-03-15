@@ -13,7 +13,7 @@ The following are communication channel slack, google mailing lists etc for this
 Anyone who wants helps and has questions about the projects in this community, can get helps and responses
 from this channel or this Mailing list.
 
-* HuaweiClouds slack: #[HuaweiClouds](https://huaweiclouds.slack.com)
+* HuaweiClouds slack: #[HuaweiClouds](https://huaweiclouds.slack.com) [Join in](https://join.slack.com/t/huaweiclouds/shared_invite/enQtMzIyMjI5MTk0Njk0LWMwM2U0Y2M5NTlkZmVjZWI4YjAzYWNjZWY4M2I4Y2Q4MmI4YWU4MDdlM2I3YmM0ZmQ1YTVjZmViNzQzMWU0ZGQ)
 * HuaweiClouds Mailing list: [HuaweiClouds](https://groups.google.com/forum/?hl=en#!forum/huaweiclouds)
 
 ## How Can I Create a new project?
